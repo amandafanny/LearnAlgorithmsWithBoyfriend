@@ -42,6 +42,7 @@
 * [9.递归最长回文子序列](https://github.com/guohuijuan1/LearnAlgorithmsWithBoyfriend/issues/9)
 * [10.递归最长递增子序列](https://github.com/guohuijuan1/LearnAlgorithmsWithBoyfriend/issues/10)
 * [11.递归送礼物](https://github.com/guohuijuan1/LearnAlgorithmsWithBoyfriend/issues/11)
+* [12.动态规划和最长公共子序列](https://github.com/guohuijuan1/LearnAlgorithmsWithBoyfriend/issues/12)
 
 
 ## Contribute
