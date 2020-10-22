@@ -1,6 +1,6 @@
 <p align="center">
  <img width="100px" src="https://res.cloudinary.com/anuraghazra/image/upload/v1594908242/logo_ccswme.svg" align="center" alt="GitHub Readme Stats" />
- <h2 align="center">Project For GirlFriend</h2>
+ <h2 align="center">Project For Lovely :heart: GirlFriend </h2>
  <p align="center">This Project's Purpose is Learning Algorithms and Deep Learning With My GrilFriend</p>
 </p>
   <p align="center">
@@ -10,7 +10,7 @@
     <a href="https://codecov.io/gh/anuraghazra/github-readme-stats">
       <img src="https://codecov.io/gh/anuraghazra/github-readme-stats/branch/master/graph/badge.svg" />
     </a>
-    <a href="https://github.com/anuraghazra/github-readme-stats/issues">
+    <a href="https://github.com/guohuijuan1/LearnAlgorithmsWithBoyfriend">
       <img alt="Issues" src="https://img.shields.io/github/issues/anuraghazra/github-readme-stats?color=0088ff" />
     </a>
     <a href="https://github.com/anuraghazra/github-readme-stats/pulls">
@@ -26,9 +26,6 @@
     </a>
   </p>
 </p>
-
-
-# LearnAlgorithmsWithBoyfriend
 
 ## Contribute
 
