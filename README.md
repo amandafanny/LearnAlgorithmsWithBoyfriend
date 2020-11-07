@@ -46,6 +46,7 @@
 * [13.股票买卖的问题](https://github.com/guohuijuan1/LearnAlgorithmsWithBoyfriend/issues/13)
 * [14.动态规划0/1背包](https://github.com/guohuijuan1/LearnAlgorithmsWithBoyfriend/issues/14)
 * [15.动态规划-相等子集分隔](https://github.com/guohuijuan1/LearnAlgorithmsWithBoyfriend/issues/15)
+* [16.动态规划-字符串编译](https://github.com/guohuijuan1/LearnAlgorithmsWithBoyfriend/issues/17)
 
 
 ## Contribute
