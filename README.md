@@ -51,9 +51,9 @@
 * [16.动态规划-字符串编辑](https://github.com/guohuijuan1/LearnAlgorithmsWithBoyfriend/issues/17)
 * [17.动态规划0/1背包问题再拆解](https://github.com/guohuijuan1/LearnAlgorithmsWithBoyfriend/issues/18)
 * [18.动态规划-波菲那挈数列](https://github.com/guohuijuan1/LearnAlgorithmsWithBoyfriend/issues/19)
-* [19.动态规划-小偷问题](https://github.com/guohuijuan1/LearnAlgorithmsWithBoyfriend/issues/20)
-* [20.动态规划-最长回文子序列](https://github.com/guohuijuan1/LearnAlgorithmsWithBoyfriend/issues/21)
-* [21.动态规划-最长公共子序列](https://github.com/guohuijuan1/LearnAlgorithmsWithBoyfriend/issues/22)
+* [19.动态规划-楼梯问题](https://github.com/guohuijuan1/LearnAlgorithmsWithBoyfriend/issues/20)
+* [20.动态规划-小偷问题](https://github.com/guohuijuan1/LearnAlgorithmsWithBoyfriend/issues/21)
+
 
 ### 大前端系列
 
